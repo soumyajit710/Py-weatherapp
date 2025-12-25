@@ -37,7 +37,7 @@ pip install PyQt5 requests
 
 Download or clone the project:
 
-git clone https://github.com/soumyajit710/WeatherApp.git
+git clone https://github.com/soumyajit710/Py-weatherapp
 
 
 Navigate to the project folder:
